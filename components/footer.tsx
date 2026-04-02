@@ -32,7 +32,7 @@ export function Footer() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-primary-foreground/60">
             <p>© 2026 万言信息科技（济宁）有限公司 版权所有</p>
-            <p>鲁ICP备2026012479号</p>
+            <p>鲁ICP备2026012479号 鲁公网安备37088302000784号</p>
           </div>
         </div>
       </div>
